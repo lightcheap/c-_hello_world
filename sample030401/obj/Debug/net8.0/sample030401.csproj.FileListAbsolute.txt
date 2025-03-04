@@ -1,0 +1,14 @@
+d:\c#sample0304\sample030401\bin\Debug\net8.0\sample030401.exe
+d:\c#sample0304\sample030401\bin\Debug\net8.0\sample030401.deps.json
+d:\c#sample0304\sample030401\bin\Debug\net8.0\sample030401.runtimeconfig.json
+d:\c#sample0304\sample030401\bin\Debug\net8.0\sample030401.dll
+d:\c#sample0304\sample030401\bin\Debug\net8.0\sample030401.pdb
+d:\c#sample0304\sample030401\obj\Debug\net8.0\sample030401.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#sample0304\sample030401\obj\Debug\net8.0\sample030401.AssemblyInfoInputs.cache
+d:\c#sample0304\sample030401\obj\Debug\net8.0\sample030401.AssemblyInfo.cs
+d:\c#sample0304\sample030401\obj\Debug\net8.0\sample030401.csproj.CoreCompileInputs.cache
+d:\c#sample0304\sample030401\obj\Debug\net8.0\sample030401.dll
+d:\c#sample0304\sample030401\obj\Debug\net8.0\refint\sample030401.dll
+d:\c#sample0304\sample030401\obj\Debug\net8.0\sample030401.pdb
+d:\c#sample0304\sample030401\obj\Debug\net8.0\sample030401.genruntimeconfig.cache
+d:\c#sample0304\sample030401\obj\Debug\net8.0\ref\sample030401.dll
