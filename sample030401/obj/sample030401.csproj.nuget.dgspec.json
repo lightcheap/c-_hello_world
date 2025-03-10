@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#sample0304\\sample030401\\sample030401.csproj": {}
+    "D:\\c#sample0304\\sample030401\\sample030401.csproj": {}
   },
   "projects": {
-    "d:\\c#sample0304\\sample030401\\sample030401.csproj": {
+    "D:\\c#sample0304\\sample030401\\sample030401.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#sample0304\\sample030401\\sample030401.csproj",
+        "projectUniqueName": "D:\\c#sample0304\\sample030401\\sample030401.csproj",
         "projectName": "sample030401",
-        "projectPath": "d:\\c#sample0304\\sample030401\\sample030401.csproj",
+        "projectPath": "D:\\c#sample0304\\sample030401\\sample030401.csproj",
         "packagesPath": "C:\\Users\\exactly_good\\.nuget\\packages\\",
-        "outputPath": "d:\\c#sample0304\\sample030401\\obj\\",
+        "outputPath": "D:\\c#sample0304\\sample030401\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\exactly_good\\AppData\\Roaming\\NuGet\\NuGet.Config"
