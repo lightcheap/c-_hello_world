@@ -45,5 +45,3 @@ foreach (string name3 in names3)
 {
     Console.WriteLine(name3);
 }
-
-// サンプルコード
