@@ -33,6 +33,17 @@ else
     Console.WriteLine("あなたの年齢は20歳ではありません。");
 }
 
-if (true) {
-
+int number = 4;
+for (int i = 0; i < number; i++)
+{
+    Console.WriteLine(i);
 }
+
+// 配列の宣言
+string[] names3 = { "山田太郎", "山田花子", "山田次郎" };
+foreach (string name3 in names3)
+{
+    Console.WriteLine(name3);
+}
+
+// サンプルコード
